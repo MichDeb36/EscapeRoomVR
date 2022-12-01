@@ -1,5 +1,6 @@
 # EscapeRoomVR
-The games were created as part of the Research Project course at the Gdańsk University of Technology. They were prepared at the request and under the supervision of a team from the Medical University of Gdańsk. The goal of the games is to train verbal memory.
-Unity version: 2020.3.23
-Tested on VR headset: Oculus Quest 2
-Intended for a headset that supports OpenXR
+The game was created as part of the Multimedia Interactive Systems course at the Gdańsk University of Technology. <br/>
+This is an escape room game. Movement using teleportation <br/>
+Unity version: 2020.3.23 <br/>
+Tested on VR headset: Oculus Quest 2 <br/>
+Intended for a headset that supports Oculus Integration
